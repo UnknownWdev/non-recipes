@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Pie</h1>
+    <a href="../index.html">Home</a>
+    <img src="./Images/Pie.gif">
+    <h2>Description
+        <p>A delicious dessert made with a flaky crust and a sweet filling,
+            perfect for any occasion.
+        </p>
+    </h2>
+    <h3>Ingredients</h3>
+    <ul>
+        <li>Pie crust</li>
+        <li>Fruit filling (e.g., apple, cherry, blueberry)</li>
+        <li>Sugar</li>
+        <li>Cinnamon</li>
+        <li>Butter</li>
+    </ul>
+    <h3>Steps</h3>
+    <ol>
+        <li>Preheat the oven to 375°F (190°C).</li>
+        <li>Roll out the pie crust and place it in a 9-inch pie dish.</li>
+        <li>Fill the crust with the fruit filling and sprinkle with sugar and cinnamon.</li>
+        <li>Dot the top with butter.</li>
+        <li>Bake for 50-60 minutes, or until the crust is golden brown and the filling is bubbly.</li>
+    </ol>
+</body>

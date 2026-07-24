@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Cookie</h1>
+    <a href="../index.html">Home</a>
+    <img src="./Images/Cookie.gif">    
+    <h2>Description
+        <p>A sweet treat made with flour, sugar, and butter,
+            perfect for satisfying your sweet tooth.
+        </p>
+    </h2>             
+    <h3>Ingredients</h3>
+    <ul>
+        <li>Flour</li>
+        <li>Sugar</li>
+        <li>Butter</li>
+        <li>Eggs</li>
+        <li>Baking powder</li>
+        <li>Vanilla extract</li>
+    </ul>
+    <h3>Steps</h3>
+    <ol>
+        <li>Preheat the oven to 350°F (175°C).</li>
+        <li>Cream together the butter and sugar until light and fluffy.</li>
+        <li>Add eggs and vanilla extract, mixing well.</li>
+        <li>In a separate bowl, combine flour and baking powder.</li>
+        <li>Gradually add the dry ingredients to the wet ingredients, mixing until combined.</li>
+        <li>Drop spoonfuls of dough onto a baking sheet.</li>
+        <li>Bake for 10-12 minutes or until golden brown.</li>
+        <li>Allow cookies to cool on a wire rack before serving.</li>
+    </ol>
+</body>

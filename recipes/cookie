@@ -8,7 +8,7 @@
 <body>
     <h1>Cookie</h1>
     <a href="../index.html">Home</a>
-    <img src="./Images/Cookie.gif">    
+    <img src="../Images/Cookie.gif">    
     <h2>Description
         <p>A sweet treat made with flour, sugar, and butter,
             perfect for satisfying your sweet tooth.
